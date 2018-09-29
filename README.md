@@ -1,1 +1,1 @@
-# wrtiting-resources
+# Writing Resources
