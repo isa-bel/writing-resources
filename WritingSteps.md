@@ -120,9 +120,9 @@ To add a new article:
 
 1. Open the theme customizer.
 2. On the left menu bar, select **Article**.
-3. Click **Add New Article**.
+3. Click **Add New Article**.  
    The New Article dialog box appears.
-5. In the **Display Title** field, enter the article's title.
+5. In the **Display Title** field, enter the article's title.  
     **Note:** To remove the title, leave the field empty.
 6. To save the new article, click **Save**.
 
